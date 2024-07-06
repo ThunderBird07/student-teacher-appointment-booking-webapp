@@ -40,5 +40,8 @@ This application is a student-teacher booking appointment system designed to fac
 - To create a "Teacher", register normally, go to admin dashboard, go to "add teacher" and use the email used for teacher register as teacher name.
 - Go to [localhost](localhost:5000) and start using the application.
 
+### **Demon:**
+Hosted [here](stabapp.pythonanywhere.com)
+
 ## Thank you
 Happy Coding!
