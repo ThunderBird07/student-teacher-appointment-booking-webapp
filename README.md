@@ -37,6 +37,7 @@ This application is a student-teacher booking appointment system designed to fac
 - Generate private key from account settings in Firebase and paste them in **serviceAccount.json**.
 - Create an user for admin, go to Firestore and set the role to "admin" and set the status to "approved" to get started.
 - Check dependencies for modules and start the Python Flask server by running **main.py**.
+- To create a "Teacher", register normally, go to admin dashboard, go to "add teacher" and use the email used for teacher register as teacher name.
 - Go to [localhost](localhost:5000) and start using the application.
 
 ## Thank you
