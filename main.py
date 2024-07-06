@@ -195,10 +195,12 @@ def admin_add_teacher():
         
         try:
             # Add teacher to Firestore
-            db.collection('teachers').add({
+            db.collection('users').document(name).update({
                 'name': name,
                 'department': department,
-                'subject': subject
+                'subject': subject,
+                'role': 'teacher',
+                'status': 'approved'
             })
             print(f"Teacher {name} added successfully")
             return redirect(url_for('admin_dashboard'))
