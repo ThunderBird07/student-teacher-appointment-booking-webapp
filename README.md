@@ -41,7 +41,7 @@ This application is a student-teacher booking appointment system designed to fac
 - Go to [localhost](localhost:5000) and start using the application.
 
 ### **Demo:**
-Hosted [here](http://www.stabapp.pythonanywhere.com)
+Hosted [here](https://stabapp.pythonanywhere.com)
 
 ## Thank you
 Happy Coding!
